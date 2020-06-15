@@ -2,7 +2,7 @@
 
 ###### This project has two connected parts:
 
-#### Important Note:This program works from a random list of cities distributed accross the northern and southern hemispheres.Every time you run this program, you will find different results in terms of locations.
+#### Important Note: This program works from a random list of cities distributed accross the northern and southern hemispheres.Every time you run this program, you will find different results in terms of locations.
 
 #### Part 1
 
@@ -24,8 +24,8 @@
 
 #### Part 2
 
-###### Leveraging the data gathered from Part 1, the goal of Part 2 is to find the best place for future vacations based on some custom weather conditions.
-###### Google Places API was used to find the first hotel for each city located within 5000 meters from coordinates.
-###### At the end, a Heat Map was generated to visualize the Humidity(%) per city and the location of each hotel encountered:
+###### * Leveraging the data gathered from Part 1, the goal of Part 2 is to find the best place for future vacations based on some custom weather conditions.
+###### * Google Places API was used to find the first hotel for each city located within 5000 meters from coordinates.
+###### * At the end, a Heat Map was generated to visualize the Humidity(%) per city and the location of each hotel encountered:
 
 ![WeatherPy](Images/Heat_Map.PNG)
