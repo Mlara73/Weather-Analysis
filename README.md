@@ -1,8 +1,8 @@
-# Python-API Project
+# OpenWeather API Analysis
 
 ###### This project has two connected parts:
 
-###### Important Note:This program works from a random list of cities distributed accross the northern and southern hemispheres.Every time you run this program, you will find different results in terms of locations.
+#### Important Note:This program works from a random list of cities distributed accross the northern and southern hemispheres.Every time you run this program, you will find different results in terms of locations.
 
 #### Part 1
 
@@ -28,4 +28,4 @@
 ###### Google Places API was used to find the first hotel for each city located within 5000 meters from coordinates.
 ###### At the end, a Heat Map was generated to visualize the Humidity(%) per city and the location of each hotel encountered:
 
-![WeatherPy](Images/Linear_Regression.PNG)
+![WeatherPy](Images/Heat_Map.PNG)
